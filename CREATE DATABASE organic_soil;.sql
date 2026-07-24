@@ -1,7 +1,3 @@
-CREATE DATABASE organic_soil;
-
-USE organic_soil;
-
 CREATE TABLE farmers (
     id INT AUTO_INCREMENT PRIMARY KEY,
     fullname VARCHAR(100) NOT NULL,
