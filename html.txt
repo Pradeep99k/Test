@@ -47,7 +47,7 @@ border:none;
 <input type="text" name="district" placeholder="District">
 
 <input type="email" name="ema…
-[13:07, 7/24/2026] +91 73537 27563: <?php
+<?php
 
 include "db.php";
 
